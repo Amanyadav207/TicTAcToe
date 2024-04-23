@@ -1,4 +1,6 @@
 package enums;
 
-public class CellStatus {
+public enum CellStatus {
+    Filled,
+    Empty
 }

@@ -1,4 +1,7 @@
 package enums;
 
-public class GameStatus {
+public enum GameStatus {
+    In_progress,
+    Drawn,
+    Ended
 }

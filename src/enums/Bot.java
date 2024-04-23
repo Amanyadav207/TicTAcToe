@@ -1,4 +1,7 @@
 package enums;
 
-public class Bot {
+public enum Bot {
+    Easy,
+    Medium,
+    Hard
 }
