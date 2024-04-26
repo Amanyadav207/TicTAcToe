@@ -1,6 +1,6 @@
 package enums;
 
-public enum Bot {
+public enum BotDiffcultlevel {
     Easy,
     Medium,
     Hard
